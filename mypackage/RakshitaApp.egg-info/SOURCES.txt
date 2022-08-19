@@ -1,0 +1,5 @@
+setup.py
+RakshitaApp.egg-info/PKG-INFO
+RakshitaApp.egg-info/SOURCES.txt
+RakshitaApp.egg-info/dependency_links.txt
+RakshitaApp.egg-info/top_level.txt
